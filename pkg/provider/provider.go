@@ -1,4 +1,4 @@
-// Package provider is a unify interface front of genai and openai
+// Package provider is a unify interface of genai and openai
 package provider
 
 import "context"

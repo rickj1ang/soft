@@ -4,7 +4,8 @@ import (
 	"context"
 	"testing"
 	"time"
-	"victory/ai_gateway/v2/pkg/provider"
+
+	"github.com/rickj1ang/soft/v2/pkg/provider"
 )
 
 type MockProvider struct {

@@ -2,7 +2,8 @@ package memory
 
 import (
 	"fmt"
-	"victory/ai_gateway/v2/pkg/provider"
+
+	"github.com/rickj1ang/soft/v2/pkg/provider"
 )
 
 type Memory struct {
